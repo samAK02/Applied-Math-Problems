@@ -23,7 +23,7 @@ The `Dijkstra` function takes a `Graph` and a starting node as input and calcula
 
 An example graph is created with nodes 'A' through 'G' and corresponding edges.
 
-![Graph](https://github.com/samAK02/Applied-Math-Problems/assets/131418700/d08406a4-c92f-4df4-be10-d575829c370c)
+![Graph](https://github.com/samAK02/Applied-Math-Problems/assets/131418700/920823d9-eea8-4d1c-be22-4dc419aaf436)
 
 ## Output
 The result of this code is the following:
