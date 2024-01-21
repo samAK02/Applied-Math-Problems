@@ -23,9 +23,12 @@ The `Dijkstra` function takes a `Graph` and a starting node as input and calcula
 
 An example graph is created with nodes 'A' through 'G' and corresponding edges.
 
+![Graph](https://github.com/samAK02/Applied-Math-Problems/assets/131418700/d08406a4-c92f-4df4-be10-d575829c370c)
 
 ## Output
-The result of this code will give us 
+The result of this code is the following:
+
+![output](https://github.com/samAK02/Applied-Math-Problems/assets/131418700/32357c3a-d241-49b0-ad02-8fbc9f44bed6)
 
 - The minimal distance to reach each vertexe from the starting node
 - The path for each node, for example:
