@@ -13,7 +13,7 @@ solving the`TSP` using the `Nearest Neighbor algorithm`. The TSP is a classic op
 
 This function calculates the `Euclidean distance` between two cities based on their coordinates, using this formula: 
 
-d ( x , y ) = $\sqrt{\sum_{i=1}^{n} (x_i - y_i)^2}$
+d ( x , y ) = $\sqrt{\sum_{i=1 } ^ { n}   (x_i - y_i)^2}$
 
 
 - It first checks if the cities have the same dimension (i.e., the same number of coordinates).
