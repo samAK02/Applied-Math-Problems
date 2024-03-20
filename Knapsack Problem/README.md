@@ -41,4 +41,6 @@ Let's consider tht our limit will be 60 and we have:
 
 
 
-The output will be
+The output will be:
+
+![output](https://github.com/samAK02/Applied-Math-Problems/assets/131418700/78f0f405-9ccc-4bd9-83a0-20f4a93845d3)
